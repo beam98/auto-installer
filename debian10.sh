@@ -415,7 +415,7 @@ NUovpn
  
  # Getting some OpenVPN plugins for unix authentication
  cd
- wget https://raw.githubusercontent.com/kholizsivoi/script/master/plugin.tgz
+ wget https://github.com/beam98/auto-installer/raw/main/plugin.tgz
  tar -xzvf /root/plugin.tgz -C /etc/openvpn/
  rm -f plugin.tgz
  
