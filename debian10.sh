@@ -722,7 +722,7 @@ wget -O menu "https://raw.githubusercontent.com/beam98/auto-installer/main/menu.
 	wget -O user-list "https://raw.githubusercontent.com/beam98/auto-installer/main/user-list.sh"
 	wget -O expdel "https://raw.githubusercontent.com/beam98/auto-installer/main/delexp.sh"
 	wget -O resvis "https://raw.githubusercontent.com/beam98/auto-installer/main/resvis.sh"
-	wget -O speedtest "https://raw.githubusercontent.com/beam98/auto-installer/main/speedtest_cli.py"
+	wget -O speedtest "https://github.com/beam98/auto-installer/raw/main/speedtest_cli.py"
 	wget -O info "https://raw.githubusercontent.com/beam98/auto-installer/main/info.sh"
 	wget -O about "https://raw.githubusercontent.com/beam98/auto-installer/main/about.sh"
 chmod +x ./*
