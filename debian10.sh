@@ -1,7 +1,7 @@
 #!/bin/bash
 ##################
 # Script name
-MyScriptName='Sivoi'
+MyScriptName='openvpn-install'
 
 # OpenSSH Ports
 SSH_Port1='22'
